@@ -1,4 +1,4 @@
-var NodeHelper = require('MMM-Lums_Calendar/node_helper');
+var NodeHelper = require('MMM-Lums-Calendar/node_helper');
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
 

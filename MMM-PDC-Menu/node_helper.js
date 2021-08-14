@@ -1,4 +1,4 @@
-var NodeHelper = require('MMM-PDC_Menu/node_helper');
+var NodeHelper = require('MMM-PDC-Menu/node_helper');
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
 

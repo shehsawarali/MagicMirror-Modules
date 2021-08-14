@@ -1,4 +1,4 @@
-var NodeHelper = require('MMM-Lums_News/node_helper');
+var NodeHelper = require('MMM-Lums-News/node_helper');
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
 
