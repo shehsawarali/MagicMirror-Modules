@@ -1,0 +1,13 @@
+{
+  "name": "LUMS_Calendar",
+  "version": "1.0.0",
+  "description": "Module to fetch LUMS Academic Calendar",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shehsawarali",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom":"latest"
+  } 
+}

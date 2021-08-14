@@ -1,0 +1,13 @@
+{
+  "name": "MMM-LUMS-News",
+  "version": "1.0.0",
+  "description": "fetches news and events from sbasse.lums.edu.pk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shehsawarali",
+  "license": "ISC"
+  "dependencies": {
+    "jsdom":"latest"
+  } 
+}
