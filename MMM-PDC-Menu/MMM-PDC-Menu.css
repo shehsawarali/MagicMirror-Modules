@@ -1,0 +1,6 @@
+.myMenuData{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-bottom: 1px solid;
+}

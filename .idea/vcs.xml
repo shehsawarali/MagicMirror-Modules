@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MMM-Config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MMM-Lums-Calendar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MMM-Lums-News" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MMM-PDC-Menu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Smart-Mirror" vcs="Git" />
+  </component>
+</project>
